@@ -1,3 +1,2 @@
 // a script that lists all databases in MongoDB.
-#!/usr/bin/env python3
-echo "show dbs" | mongo --quiet
+show dbs
